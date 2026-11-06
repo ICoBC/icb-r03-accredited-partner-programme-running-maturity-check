@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-R03",
+  "repository": "icb-r03-accredited-partner-programme-running-maturity-check",
+  "repository_url": "https://github.com/ICoBC/icb-r03-accredited-partner-programme-running-maturity-check",
+  "title": "Accredited Partner Programme: Running the Maturity Check",
+  "subtitle": "Preparing clients for the Seal without crossing into review.",
+  "version": "1.0.0",
+  "series": "Quality network",
+  "skill": "Quality assurance and accreditation",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-QUAL-L3-A",
+  "badge_name": "Accredited Partner Programme: Running the Maturity Check (Ability, L3)",
+  "hours": "10",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-r03/",
+  "parts": [
+    "About this course",
+    "The partner role",
+    "The Maturity Check",
+    "Working with clients",
+    "Boundaries with review",
+    "Tools and templates",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 21
+}
